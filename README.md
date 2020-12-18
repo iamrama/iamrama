@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning flutter,react and Firebase products.
 - 💬 Ask me about android and xamarin
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Listening songs,Travelling
+- ⚡ Fun fact: Listening songs, Travelling
 
 **Languages and Tools:** 
 
