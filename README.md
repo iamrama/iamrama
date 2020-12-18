@@ -7,6 +7,9 @@
   <img align="left" alt="rk's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br/>
+<br/>
+
 - 🔭 I’m currently working as an native and cross-platform mobile app developer in Adyog
 - 🌱 I’m currently learning flutter,react and Firebase products.
 - 💬 Ask me about android and xamarin
