@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as an native and cross-platform mobile app developer at Adyog
 - 🌱 I’m currently learning flutter,react and Firebase products.
-- 💬 Ask me about android and xamarin
+- 💬 Ask me about anything in android and xamarin
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Listening songs, Travelling
 
