@@ -27,11 +27,11 @@
 
 
 <a href="https://github.com/iamrama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkk027&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrama&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/iamrama">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrama&show_icons=true&theme=light&line_height=27" alt="rk's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrama&show_icons=true&theme=dark&line_height=27" alt="rk's github stats"/>
 
 <!--
 **rkk027/rkk027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
