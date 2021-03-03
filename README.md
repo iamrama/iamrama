@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/rama-krishnan-lakshmana-perumal-2ba9a4aa/">
   <img align="left" alt="rk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/rkk027">
+<a href="https://github.com/iamrama">
   <img align="left" alt="rk's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -26,12 +26,12 @@
 
 
 
-<a href="https://github.com/rkk027">
+<a href="https://github.com/iamrama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkk027&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/rkk027">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rkk027&show_icons=true&theme=light&line_height=27" alt="rk's github stats"/>
+<a href="https://github.com/iamrama">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrama&show_icons=true&theme=light&line_height=27" alt="rk's github stats"/>
 
 <!--
 **rkk027/rkk027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
