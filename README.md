@@ -11,7 +11,7 @@
 <br/>
 
 - 🔭 I’m currently working as an native and cross-platform mobile app developer @ Adyog
-- 🌱 I’m currently learning flutter,react and Firebase products.
+- 🌱 I’m currently learning react and Firebase products.
 - 💬 Ask me about anything in android and xamarin
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Listening songs, Travelling
