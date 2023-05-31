@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as an native and cross-platform mobile app developer @ Adyog
+- 🔭 I’m working as an mobile application developer 
 - 🌱 I’m currently learning react and Firebase products.
 - 💬 Ask me about anything in android, flutter and xamarin
 - 😄 Pronouns: He/His
